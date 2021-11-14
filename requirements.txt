@@ -2,7 +2,7 @@ beautifulsoup4==4.8.0
 bibtexparser==1.1.0
 funcy==1.13
 iso639
-MySQL-python
+pymysql
 openpyxl==3.0.5
 pdfminer>=20140328
 pyoai==2.5.0

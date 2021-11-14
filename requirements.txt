@@ -5,6 +5,7 @@ iso639
 pymysql
 openpyxl==3.0.5
 pdfminer>=20140328
+pdftotext
 pyoai==2.5.0
 pyparsing==2.3.0
 rdflib==4.2.2
